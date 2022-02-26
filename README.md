@@ -75,7 +75,7 @@ Snapshots of the relevant graphs and information are given below for each step f
 
 ![Step3-3](https://github.com/Summi-Khanna/Challenge-11/blob/main/Images/Step3-3.png)
 
-![Step3-4](https://github.com/Summi-Khanna/Challenge-11/blob/main/Images/Step3-3.png)
+![Step3-4](https://github.com/Summi-Khanna/Challenge-11/blob/main/Images/step3-4.png)
 
 
 4. ### Creating a time series model with Prophet
